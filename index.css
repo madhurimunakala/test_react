@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  height: 80px;
+  justify-content: space-between;
+  border: 1px solid black
+}
+.logo {
+  width: 100px;
+  height: 70px;
+}
+.center .input {
+  width: 800px;
+  border-radius: 10px;
+  height: 30px;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  cursor: pointer;
+  
+}
+.right{
+  float:right;
+  width: 100px;
+  height: 70px;
+}
